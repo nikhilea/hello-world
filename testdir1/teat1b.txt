@@ -1,1 +1,0 @@
-This is content in test1b.txt file.
